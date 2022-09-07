@@ -1,0 +1,1 @@
+python train.py flowers --epochs 4 --gpu

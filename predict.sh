@@ -1,0 +1,1 @@
+python predict.py flowers/train/1/image_06734.jpg checkpoints/checkpoint.pth --top_k 1 --gpu
