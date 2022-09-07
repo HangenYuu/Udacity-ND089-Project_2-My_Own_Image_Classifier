@@ -1,4 +1,4 @@
-# Used on Udacity only
+# Code to be used on Udacity Workspace only. Written by Udacity
 
 import signal
 
