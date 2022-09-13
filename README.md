@@ -13,7 +13,7 @@ Python 3, PyTorch 0.4, Pillow
 
 ### Preprocess image folder file path
 
-The image folder needs to be preprocessed as required by the PyTorch documentation for the [ImageFolder object]{https://pytorch.org/vision/stable/generated/torchvision.datasets.ImageFolder.html}
+The image folder needs to be preprocessed as required by the PyTorch documentation for the [ImageFolder object](https://pytorch.org/vision/stable/generated/torchvision.datasets.ImageFolder.html)
 
 ### Train a model
 
