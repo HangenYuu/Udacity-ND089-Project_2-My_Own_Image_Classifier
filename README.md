@@ -7,7 +7,12 @@ This is a Python Command Line Application that can do two things:
 
 ## Dependencies
 
-Python 3, PyTorch 0.4, 
+Python 3, PyTorch 0.4, Pillow
 
+## Getting started
+
+### Train a model
+
+After downloading the code, create a folder to contain the checkpoint file .pth after training.
 
 Test accuracy: 79.5% for epochs = 4
